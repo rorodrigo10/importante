@@ -21,6 +21,7 @@ Abra a raiz no navegador local. Não há dependências para instalar nem build. 
 ## Comportamento
 
 - Cinco cores e capacidades de 256/512 GB; resumo atualizado automaticamente.
+- Estoque ilustrativo por cor: Lavanda 47, Sálvia 63, Branco 82, Azul-névoa 29 e Preto 150. A quantidade aparece perto do seletor de quantidade e nos detalhes; permanece estável ao alternar as cores. Substituir pelo estoque real antes de operar vendas.
 - Preços ilustrativos definidos em `app.js`: R$ 5.850,16 e R$ 6.650,16. Substituir pelos valores comerciais aprovados antes de vender.
 - Galerias ilustrativas próprias para Lavanda, Sálvia, Branco, Azul-névoa e Preto, recriadas a partir da referência fornecida. A seleção atualiza a imagem principal, todas as miniaturas e as imagens do carrinho e do pedido. Nenhum filtro escurece a página ou altera as cores da tela. A vista, a capacidade e a quantidade são preservadas. As imagens não são fotografias originais. Substituir por fotografias autorizadas antes de usar comercialmente. Magalu é apresentada como fornecedora informada pelo usuário; métricas não verificadas permanecem sem valores.
 - Campos de entrega com validação básica do navegador. Não há consulta de CEP nem cálculo de frete.
