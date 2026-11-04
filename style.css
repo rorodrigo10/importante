@@ -27,3 +27,11 @@ dialog{width:375px;padding:24px 22px}.fields{gap:16px 12px}.fields>input,.number
 .gallery-option-image{display:inline-block;width:14px;height:23px;margin-right:10px;vertical-align:middle;background-size:500% 160%;background-position-y:55%}.order-phone{display:inline-block;width:32px;height:48px;flex-shrink:0;vertical-align:middle;background-size:500% 160%;background-position-y:55%}.gallery-thumb{clip-path:inset(0 2px)}
 @media(min-width:801px) and (max-width:1199px){.product-art .product-image{position:relative;left:-12px;top:-5px}.gallery-option-image{width:10px;height:16px;margin-right:7px}}
 @media(max-width:800px){.gallery-option-image{width:10px;height:16px;margin-right:6px}}
+
+/* A cor preta usa uma imagem própria: mantém fundo e tela nas cores originais. */
+.gallery-sprite[data-color="Preto"]{background-image:url('assets/iphone-gallery-black.png')}
+
+/* Uma galeria por acabamento, aplicada ao produto, miniaturas, carrinho e pedido. */
+.gallery-sprite[data-color="Sálvia"]{background-image:url('assets/iphone-gallery-sage.png')}
+.gallery-sprite[data-color="Branco"]{background-image:url('assets/iphone-gallery-white.png')}
+.gallery-sprite[data-color="Azul-névoa"]{background-image:url('assets/iphone-gallery-mist-blue.png')}
