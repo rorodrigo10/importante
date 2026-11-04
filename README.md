@@ -22,7 +22,7 @@ Abra a raiz no navegador local. Não há dependências para instalar nem build. 
 
 - Cinco cores e capacidades de 256/512 GB; resumo atualizado automaticamente.
 - Preços ilustrativos definidos em `app.js`: R$ 5.850,16 e R$ 6.650,16. Substituir pelos valores comerciais aprovados antes de vender.
-- Imagem ilustrativa em `assets/iphone-blue.png`, recriada com geração de imagem a partir da referência fornecida. Não é a fotografia original. Cores alternativas são simulações por filtro CSS; substituir por fotografias autorizadas de cada variante antes de usar comercialmente.
+- Galeria com cinco vistas ilustrativas em `assets/iphone-gallery.png`, recriada com geração de imagem a partir da referência fornecida. Não é a fotografia original. As miniaturas mostram frente e verso, frente, traseira, lateral e aparelho horizontal. Magalu é apresentada como fornecedora informada pelo usuário; métricas não verificadas permanecem sem valores. Cores alternativas são simulações por filtro CSS; substituir por fotografias autorizadas de cada variante antes de usar comercialmente.
 - Campos de entrega com validação básica do navegador. Não há consulta de CEP nem cálculo de frete.
 - Endereço mantido somente em memória; desaparece ao recarregar. Nenhum dado é enviado ou armazenado.
 - Pagamento demonstrativo; não coleta cartão, não cria pedido e não efetua cobrança.
